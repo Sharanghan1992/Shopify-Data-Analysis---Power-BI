@@ -1,6 +1,7 @@
 # Shopify-Data-Analysis---Power-BI
 The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
+# Dashboard 1
 # KPI Requirements
 1. Transactions Performance
     This section focuses on evaluating the overall health and effectiveness of sales operations by tracking:
@@ -46,6 +47,14 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 4. Product Type
     - Determine which product types generate the highest revenue and order volume.
     - Understand how customer engagement varies across different product categories.
+
+# Dashboard 2
+- Provide a dedicated page to display transaction-level or detailed data.
+- Allow users to drill through from summary visuals (like charts and KPIs) to see underlying records.
+- Enable users to explore data at a granular level, such as individual orders, customers, or product types.
+- Help explain summary trends and validate aggregated metrics with raw data.
+
+
 
 
 
