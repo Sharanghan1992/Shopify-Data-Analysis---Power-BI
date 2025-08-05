@@ -19,7 +19,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
     - Purchase Frequency: How often customers place orders, on average.
       
 # Chart Requirements
-## 1. Regional Overview - Province and Cities
+1. Regional Overview - Province and Cities
    Filled Map (Province-Level)
     - Purpose: Display province-wise performance using color saturation based on the selected measure.
     - Interactivity: Changes dynamically with the measure selector.
@@ -31,7 +31,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
     - Purpose: Compare top-performing cities based on the selected KPI.
     - Sorted: Descending order by selected measure.
     - Dynamic: Interacts with slicers/filters and responds to the KPI selector.
-## 2. Sales Trend Over Time
+2. Sales Trend Over Time
     Area Chart – Trend by Day
     - Purpose: Show the daily trend of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
     - Interactivity: Changes dynamically based on the selected measure.
