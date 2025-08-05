@@ -19,6 +19,27 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
     - Purchase Frequency: How often customers place orders, on average.
       
 # Chart Requirements
+## 1. Regional Overview - Province and Cities
+   Filled Map (Province-Level)
+    - Purpose: Display province-wise performance using color saturation based on the selected measure.
+    - Interactivity: Changes dynamically with the measure selector.
+   Bubble Map / Density Map (City Level)
+    - Purpose: Visually represent sales or customer density at a more granular level.
+    - Bubble Size or Heat Intensity: Driven by the selected measure.
+    - Tooltip: Shows all key metrics (Net Sales, Quantity, Total Customers, Repeat Customers)
+   Bar Chart (City-Level Performance)
+    - Purpose: Compare top-performing cities based on the selected KPI.
+    - Sorted: Descending order by selected measure.
+    - Dynamic: Interacts with slicers/filters and responds to the KPI selector.
+## 2. Sales Trend Over Time
+    Area Chart – Trend by Day
+    - Purpose: Show the daily trend of the selected measure (e.g., daily Net Sales or daily Repeat Customers).
+    - Interactivity: Changes dynamically based on the selected measure.
+    Bar Chart or Line Chart – Trend by Hour
+    - Purpose: Display sales or customer activity by hour of the day (e.g., 0–23 hrs), revealing peak activity periods.
+    - Use Case: Helps understand time-of-day behavior, useful for marketing or operational timing decisions.
+
+
 
 
 
