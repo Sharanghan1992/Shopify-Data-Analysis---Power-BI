@@ -38,6 +38,16 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
     Bar Chart or Line Chart – Trend by Hour
     - Purpose: Display sales or customer activity by hour of the day (e.g., 0–23 hrs), revealing peak activity periods.
     - Use Case: Helps understand time-of-day behavior, useful for marketing or operational timing decisions.
+  
+3. Gateway Payment Method
+   - Identify the most and least used payment methods.
+   - Detect customer preferences across regions or campaigns.
+
+4. Product Type
+    - Determine which product types generate the highest revenue and order volume.
+    - Understand how customer engagement varies across different product categories.
+
+
 
 
 
